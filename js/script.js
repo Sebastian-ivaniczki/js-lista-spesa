@@ -8,7 +8,7 @@ con un ciclo while.  (anche brutalmente, basta che si vedano)
 
 const target = document.getElementById('target');
 //creo un aray per gli elementi della speas 
-const shopingList = ['uova', 'latte', 'burro', 'mele'];
+const shopingList = ['uova', 'latte', 'burro', 'mele' ,'zucchero', 'farina'];
 //prendo la lunghezza del arai
 const elementNumber = shopingList.length
 
